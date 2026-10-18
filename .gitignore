@@ -1,0 +1,13 @@
+# macOS & Windows system files
+.DS_Store
+Thumbs.db
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# TODO: Add your secret environment file below so it doesn't leak!
