@@ -1,0 +1,1 @@
+- **Partner B:** [Replace with Partner B Name]
