@@ -1,4 +1,4 @@
-# Git & GitHub Workshop Cheat Sheet
+# Git & GitHub Workshop Takeaway Cheat Sheet
 
 ## 1. One-Time Setup
 
@@ -7,6 +7,7 @@ Run these once on a new computer so Git knows who you are and behaves nicely:
 ```bash
 git config --global user.name "Your Name"
 git config --global user.email "your-github-email@example.com"
+git config pull.rebase false # We did this to show how merge commits work.
 
 ```
 
