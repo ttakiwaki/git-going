@@ -15,7 +15,7 @@ Welcome to the hands-on portion of the Git & GitHub workshop! You and your partn
 
 ## Quick Links and Guides
 
-- **[1: Presentation PDF](./guides/01-secrets-and-gitignore.md)**
+- **[1: Presentation PDF](./guides/GitHub-FallHacks2026.pdf)**
 - **[2: Takeaway Cheat Sheet](./guides/cheat-sheet.md)**
 
 > **We hope this helps you at Fall Hacks this year! Good luck and Happy Hacking!**
